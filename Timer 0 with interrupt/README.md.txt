@@ -1,0 +1,1 @@
+This program is configured for Timer 0 interrupt, Enternal Interrupt . BAsed on the interrupt configured we can infer the different effects of delay functionalities.
